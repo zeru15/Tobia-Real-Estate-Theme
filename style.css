@@ -1,9 +1,9 @@
 /*
-Theme Name: My First Theme
+Theme Name: Tobia Real Estate
 Theme URI: https://iamzerubabel.com/
 Author: Zerubabel Firew
 Author URI: https://iamzerubabel.com/
-Description: This is my first theme
+Description: This is a real estate focused theme
 Version: 1.0.0
 License: GNU General Public License V2 or Later
 License URI: https://iamzerubabel.com/
@@ -18,6 +18,11 @@ header {
     background-color: #162656;
     color: white;
     padding: 20px 0;
+}
+
+.main_header {
+    display:flex;
+    justify-content: space-between;
 }
 
 

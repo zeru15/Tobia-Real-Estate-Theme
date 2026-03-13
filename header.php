@@ -9,7 +9,7 @@
     <body <?php body_class(); ?>>
         <header class="container main_header">
             <h1 class="header-logo"><?php bloginfo('name'); ?></h1>
-            <p><?php bloginfo('description'); ?></p>
+            
             <nav>
                 <?php
                 wp_nav_menu(array(
